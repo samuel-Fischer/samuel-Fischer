@@ -3,6 +3,10 @@
 ![GitHub Snake Light](https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
+<!--
+Link para deixar uma mensagem passando no perfil como se fosse u gif: https://readme-typing-svg.herokuapp.com/demo/
+-->
+
 <details>
   <summary>
     <samp>stats</samp>
@@ -54,6 +58,6 @@
   <a href="https://instagram.com/samuelfisklug" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECDC68&height=120&section=footer" />
 
 
