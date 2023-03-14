@@ -29,20 +29,20 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 </p>
 </details>
 
+&nbsp;<div align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samuelfklug&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
 ### Atualmente:
 - 📚 estou estudando na Senac RS.
 - 🌱 3º Semestre.
 - 📘 3/5 do curso de inglês concluido.
 - 🤔 Procurando por uma oportunidade em algum projeto.
 
-&nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samuelfklug&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-</div>
-
 ##
 
 ### Ferramentas e Tecnologias:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -65,4 +65,3 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 &nbsp;<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECDC68&height=120&section=footer" />
 </div>
-
