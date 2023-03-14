@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+&nbsp;<div align="center">
 ![GitHub Snake Light](https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+</div>
 
 <!--
 Link para deixar uma mensagem passando no perfil como se fosse u gif: https://readme-typing-svg.herokuapp.com/demo/
@@ -34,6 +35,10 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 - 📘 3/5 do curso de inglês concluido.
 - 🤔 Procurando por uma oportunidade em algum projeto.
 
+&nbsp;<div align="center">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samuelfklug&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
 ##
 
 ### Ferramentas e Tecnologias:
@@ -49,7 +54,7 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 ##
 
 ### Contatos:
-<div>
+&nbsp;<div align="center">
   <a href="https://www.linkedin.com/in/sa-fischer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/sahlointhetrees" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/404253084584378389" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -57,7 +62,7 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
   <a href="https://last.fm/user/Samuelfischerk" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/samuelfisklug" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+&nbsp;<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECDC68&height=120&section=footer" />
-
+</div>
 
