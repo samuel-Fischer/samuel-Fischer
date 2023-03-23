@@ -33,16 +33,19 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samuelfklug&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-### Atualmente:
-- 📚 estou estudando na Senac RS.
-- 🌱 3º Semestre.
-- 📘 3/5 do curso de inglês concluido.
-- 🤔 Procurando por uma oportunidade em algum projeto.
+&nbsp;<div align="center">
+  ### Atualmente
+  <p>🌱  3º Semestre.</p>
+  <p>📚  estudando na Senac RS.</p>
+  <p>📘  3/5 do curso de inglês concluido.</p>
+  <p>🤔  Procurando por uma oportunidade em algum projeto.</p>
+</div>
 
 ##
-
-### Ferramentas e Tecnologias:
-<div style="display: inline_block">
+&nbsp;<div align="center">
+  ### Ferramentas e Tecnologias
+</div>
+<div style="display: inline_block" align="center">
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -52,8 +55,9 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 </div>
 
 ##
-
-### Contatos:
+&nbsp;<div align="center">
+  ### Contatos
+</div>
 &nbsp;<div align="center">
   <a href="https://www.linkedin.com/in/sa-fischer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/sahlointhetrees" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
