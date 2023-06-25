@@ -37,8 +37,8 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
   ### Atualmente
   <p>🌱  3º Semestre.</p>
   <p>📚  estudando na Senac RS.</p>
-  <p>📘  3/5 do curso de inglês concluido.</p>
-  <p>🤔  Procurando por uma oportunidade em algum projeto.</p>
+  <p>📘  4/5 do curso de inglês concluido.</p>
+  <p>🤔  Procurando por uma oportunidade de emprego na área.</p>
 </div>
 
 ##
