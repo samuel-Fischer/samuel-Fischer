@@ -1,0 +1,27 @@
+name: Generate GitHub Snake
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Agende para rodar diariamente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "samuel-Fischer"
+          git config user.email "samuelfisklug@gmail.com"
+          git add dist/github-snake.svg
+          git commit -m "Generate GitHub Snake"
+          git push
