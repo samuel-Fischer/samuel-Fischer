@@ -1,27 +1,42 @@
-name: Generate GitHub Snake
+name: Generate GitHub Contribution Grid Snake
 
 on:
+  # Executa automaticamente a cada 6 horas (cron definido para um valor que atende às suas necessidades)
   schedule:
-    - cron: '0 0 * * *' # Agende para rodar diariamente
+    - cron: "0 */6 * * *"
+  
+  # Permite executar manualmente o trabalho a qualquer momento
+  workflow_dispatch:
+  
+  # Executa em cada push na branch "master"
+  push:
+    branches:
+      - master
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      # Gera o jogo da cobra a partir do gráfico de contribuições do usuário GitHub
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: samuel-Fischer
           outputs: |
-            dist/github-snake.svg
-
-      - name: Commit and Push Changes
-        run: |
-          git config user.name "samuel-Fischer"
-          git config user.email "samuelfisklug@gmail.com"
-          git add dist/github-snake.svg
-          git commit -m "Generate GitHub Snake"
-          git push
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Faz o push do conteúdo do diretório "dist" para uma branch chamada "output"
+      - name: Push GitHub Contribution Grid Snake to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
