@@ -1,14 +1,11 @@
 name: Generate GitHub Contribution Grid Snake
 
 on:
-  # Executa automaticamente a cada 6 horas (cron definido para um valor que atende às suas necessidades)
   schedule:
     - cron: "0 */6 * * *"
   
-  # Permite executar manualmente o trabalho a qualquer momento
   workflow_dispatch:
   
-  # Executa em cada push na branch "master"
   push:
     branches:
       - master
@@ -21,7 +18,6 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # Gera o jogo da cobra a partir do gráfico de contribuições do usuário GitHub
       - name: Generate GitHub Contribution Grid Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -32,7 +28,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Faz o push do conteúdo do diretório "dist" para uma branch chamada "output"
       - name: Push GitHub Contribution Grid Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
