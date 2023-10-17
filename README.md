@@ -1,7 +1,11 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=100&color=ADBAC7&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Fischer!)](https://git.io/typing-svg)
 &nbsp;<div align="center">
-![GitHub Snake Light](https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  ### My Contributions
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+  </picture>
 </div>
 
 <!--
@@ -34,24 +38,26 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 </div>
 
 &nbsp;<div align="center">
-  ### Atualmente
-  <p>🌱  4º Semestre.</p>
-  <p>📚  estudando na Senac RS.</p>
-  <p>📘  4/5 do curso de inglês concluido.</p>
-  <p>🤔  Procurando por uma oportunidade de emprego na área.</p>
+  ### Current Status
+  <p>🌱  4th Semester</p>
+  <p>📚  Studying at Senac</p>
+  <p>📘  Completed 4 out of 5 English course levels</p>
+  <p>🤔  Actively seeking job opportunities in the field</p>
 </div>
 
 ##
 &nbsp;<div align="center">
-  ### Ferramentas e Tecnologias
-</div>
+  ### Tools and Technologies</div>
 <div style="display: inline_block" align="center">
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> 
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -59,7 +65,7 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 
 ##
 &nbsp;<div align="center">
-  ### Contatos
+  ### Contacts
 </div>
 &nbsp;<div align="center">
   <a href="https://www.linkedin.com/in/sa-fischer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -73,6 +79,11 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
   <a href="https://open.spotify.com/user/samuelfklug" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://last.fm/user/Samuelfischerk" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
 </div>
+
+&nbsp;<div>
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=400&color=ADBAC7&random=false&width=510&lines=Shoot+me+a+message+on+Linkedin!;i'm+always+down+to+collab;Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+</div>
+
 &nbsp;<div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ECDC68&height=120&section=footer" />
 </div>
