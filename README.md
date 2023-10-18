@@ -1,11 +1,29 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&duration=3000&pause=100&color=ADBAC7&repeat=false&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Samuel+Fischer!)](https://git.io/typing-svg)
 &nbsp;<div align="center">
   ### My Contributions
-  
+<!--
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg">
-    <img src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg">
+    <img media="(prefers-color-scheme: dark)" src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
   </picture>
+<img media="(prefers-color-scheme: dark)" src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
+-->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 </div>
 
 <!--
