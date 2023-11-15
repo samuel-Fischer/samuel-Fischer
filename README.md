@@ -76,6 +76,7 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+  <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" heigth="30" width=40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
