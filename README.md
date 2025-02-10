@@ -52,14 +52,13 @@ Link para deixar uma mensagem passando no perfil como se fosse u gif: https://re
 </details>
 
 &nbsp;<div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samuelfklug&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=samuelfklug&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=samuelfklug&redirect=true)
 </div>
 
 &nbsp;<div align="center">
   ### Current Status
-  <p>🌱  4th Semester</p>
-  <p>📚  Studying at Senac</p>
-  <p>📘  Completed 4 out of 5 English course levels</p>
+  <p>📚  Graduated in Systems Analysis and Development at Senac</p>
+  <p>📘  Completed all 5 levels of English courses at Topway</p>
   <p>🤔  Actively seeking job opportunities in the field</p>
 </div>
 
